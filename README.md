@@ -1,6 +1,5 @@
 # Fortune-Cookie-Simulator
 This Python program simulates cracking open a fortune cookie.
-# Fortune Cookie Simulator with Text-to-Speech
 
 ## Description
 
@@ -15,7 +14,7 @@ This Python program simulates cracking open a fortune cookie. Each time you pres
 
 ## Requirements
 
-- Python 3.x  
+- Python 3.13  
 - pyttsx3  
 
 ## Installation
